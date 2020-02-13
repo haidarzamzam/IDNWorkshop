@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTransparantWhite">#cccccc</color>
+
+    <color name="colorSlide1">#FFD08A</color>
+    <color name="colorSlide2">#E94A47</color>
+    <color name="colorSlide3">#23286B</color>
+
+    <color name="colorIndicator1">#E94A47</color>
+    <color name="colorIndicator2">#FFD08A</color>
+    <color name="colorIndicator3">#FFD08A</color>
+
+    <color name="colorTextSlide1">#23286B</color>
+    <color name="colorTextSlide2">#FFD08A</color>
+    <color name="colorTextSlide3">#FFD08A</color>
+
+    <color name="colorButton">#FFBD59</color>
 </resources>
